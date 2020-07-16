@@ -1,20 +1,29 @@
 {
     "results": [
         {
-            "currentConfirmedCount": 43008,
-            "confirmedCount": 78631,
-            "suspectedCount": 2358,
-            "curedCount": 32876,
-            "deadCount": 2747,
-            "seriousCount": 8346,
-            "currentConfirmedIncr": -2689,
-            "confirmedIncr": 441,
-            "suspectedIncr": 508,
-            "curedIncr": 3101,
-            "deadIncr": 29,
-            "seriousIncr": -406,
-            "generalRemark": "疑似病例数来自国家卫健委数据，目前为全国数据，未分省市自治区等",
-            "abroadRemark": "",
+            "currentConfirmedCount": 669,
+            "currentConfirmedIncr": 48,
+            "confirmedCount": 85765,
+            "confirmedIncr": 88,
+            "suspectedCount": 1989,
+            "suspectedIncr": 1,
+            "curedCount": 80445,
+            "curedIncr": 38,
+            "deadCount": 4651,
+            "deadIncr": 2,
+            "seriousCount": 104,
+            "seriousIncr": -6,
+            "globalStatistics": {
+                "currentConfirmedCount": 5642315,
+                "confirmedCount": 13548475,
+                "curedCount": 7321966,
+                "deadCount": 584194,
+                "currentConfirmedIncr": 15517,
+                "confirmedIncr": 74038,
+                "curedIncr": 56540,
+                "deadIncr": 1981
+            },
+            "generalRemark": "1. 3 月 12 日国家卫健委确诊补订遗漏 12 例确诊病例（非 12 日新增），暂无具体省份信息。 2. 浙江省 12 例外省治愈暂无具体省份信息。",
             "remark1": "易感人群：人群普遍易感。老年人及有基础疾病者感染后病情较重，儿童及婴幼儿也有发病",
             "remark2": "潜伏期：一般为 3～7 天，最长不超过 14 天，潜伏期内可能存在传染性，其中无症状病例传染性非常罕见",
             "remark3": "宿主：野生动物，可能为中华菊头蝠",
@@ -23,7 +32,7 @@
             "note1": "病毒：SARS-CoV-2，其导致疾病命名 COVID-19",
             "note2": "传染源：新冠肺炎的患者。无症状感染者也可能成为传染源。",
             "note3": "传播途径：经呼吸道飞沫、接触传播是主要的传播途径。气溶胶传播和消化道等传播途径尚待明确。",
-            "updateTime": 1582807341431
+            "updateTime": 1594896710536
         }
     ],
     "success": true
